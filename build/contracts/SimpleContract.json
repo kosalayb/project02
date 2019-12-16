@@ -1,0 +1,112 @@
+{
+  "contractName": "SimpleContract",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.12+commit.7709ece9\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/C/Users/Kosala/project02/contracts/SimpleContract.sol\":\"SimpleContract\"},\"evmVersion\":\"petersburg\",\"libraries\":{},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[]},\"sources\":{\"/C/Users/Kosala/project02/contracts/SimpleContract.sol\":{\"keccak256\":\"0xdda9eeb876eef44dd27b73840287bdccf7437f0995a1480324ea2e273ac56b1c\",\"urls\":[\"bzz-raw://d74fa4368322dbce9c36ff0903a473734ca39727972b61d19d70f7381c10c2df\",\"dweb:/ipfs/QmSWfLpiBnRhUpDGCdWwr96mqdTUjMH2fG1V7JNv7nhC2W\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a723158204d81dc948892c8049a481beac8ba7821327f4f38ec9cddb57446572d54dcaef464736f6c634300050c0032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a723158204d81dc948892c8049a481beac8ba7821327f4f38ec9cddb57446572d54dcaef464736f6c634300050c0032",
+  "sourceMap": "27:33:1:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;27:33:1;;;;;;;",
+  "deployedSourceMap": "27:33:1:-;;;;;",
+  "source": "pragma solidity ^0.5.0;\r\n\r\ncontract SimpleContract{\r\n    \r\n}",
+  "sourcePath": "C:/Users/Kosala/project02/contracts/SimpleContract.sol",
+  "ast": {
+    "absolutePath": "/C/Users/Kosala/project02/contracts/SimpleContract.sol",
+    "exportedSymbols": {
+      "SimpleContract": [
+        59
+      ]
+    },
+    "id": 60,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 58,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 59,
+        "linearizedBaseContracts": [
+          59
+        ],
+        "name": "SimpleContract",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 60,
+        "src": "27:33:1"
+      }
+    ],
+    "src": "0:60:1"
+  },
+  "legacyAST": {
+    "absolutePath": "/C/Users/Kosala/project02/contracts/SimpleContract.sol",
+    "exportedSymbols": {
+      "SimpleContract": [
+        59
+      ]
+    },
+    "id": 60,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 58,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 59,
+        "linearizedBaseContracts": [
+          59
+        ],
+        "name": "SimpleContract",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 60,
+        "src": "27:33:1"
+      }
+    ],
+    "src": "0:60:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.12+commit.7709ece9.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x6f2Ef4Cd1d8E06f66bf4C810933447d86F4f72C5",
+      "transactionHash": "0x5ad4a42d4e93fa23a6c3559e96c439a11defa722b8ac70bef18a19f5d2b6eb1c"
+    }
+  },
+  "schemaVersion": "3.0.19",
+  "updatedAt": "2019-12-06T13:32:17.416Z",
+  "networkType": "ethereum",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
